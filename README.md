@@ -70,7 +70,7 @@ detector/
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <ССЫЛКА_НА_РЕПОЗИТОРИЙ>
+git clone https://github.com/leonawr/sms-spam-detection.git detector_test
 cd detector
 ```
 
